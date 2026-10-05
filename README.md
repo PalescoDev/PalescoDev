@@ -1,5 +1,7 @@
 # 👋 Hey, I'm Palesco
 
+Palesco is a blend of my first name, Francesco, and my middle name, Pasquale.
+
 ```java
 public class Palesco {
 
@@ -16,3 +18,4 @@ public class Palesco {
         "Cybersecurity"
     };
 }
+```
