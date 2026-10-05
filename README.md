@@ -8,7 +8,7 @@ public class Palesco {
     String role = "Software Developer";
 
     String[] languages = {
-        "Java", "Python", "JavaScript",
+        "Java", "Python",
         "HTML", "CSS", "SQL"
     };
 
